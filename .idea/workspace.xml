@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/StringTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/StringReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/TrimTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/java/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/exer/ElevatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/exer/ProducerCustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/exer/ScanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/TheadPoolTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/ThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/ThreadTestImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/WindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/WindowTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/community/java/NumPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/exer/AccountExerciseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/exer/AccountExtendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/exer/AccountImplementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/LockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,6 +65,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///usr/lib/jvm/jdk1.8.0_341/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,16 +81,107 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/home/kevonlin/Repository/Development/IdeaWorkSpace/JavaSenior/StringTest/src",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/StringTest/src" />
+      <recent name="$PROJECT_DIR$/ThreadTest/src" />
+      <recent name="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StringReverseTest.test1">
+    <configuration name="TheadPoolTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.thread.java.TheadPoolTest1" />
+      <module name="ThreadTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.thread.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrimTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.TrimTest" />
+      <module name="StringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverseTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevonlin.exer" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.StringReverseTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.StringTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.StringTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringReverseTest.test1" />
+        <item itemvalue="应用程序.TrimTest" />
+        <item itemvalue="应用程序.TheadPoolTest1" />
+        <item itemvalue="JUnit.StringTest.test3" />
+        <item itemvalue="JUnit.StringTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -68,7 +197,27 @@
       <workItem from="1661090849544" duration="519000" />
       <workItem from="1661091405529" duration="508000" />
       <workItem from="1661091942172" duration="73000" />
-      <workItem from="1661092033550" duration="1142000" />
+      <workItem from="1661092033550" duration="1552000" />
+      <workItem from="1661123039506" duration="251000" />
+      <workItem from="1661123387106" duration="68000" />
+      <workItem from="1661123499664" duration="16000" />
+      <workItem from="1661123530554" duration="21000" />
+      <workItem from="1661123565728" duration="10000" />
+      <workItem from="1661124073549" duration="73000" />
+      <workItem from="1661124165130" duration="153000" />
+      <workItem from="1661124337519" duration="412000" />
+      <workItem from="1661134290490" duration="21000" />
+      <workItem from="1661134723929" duration="370000" />
+      <workItem from="1661135688005" duration="1300000" />
+      <workItem from="1661137762064" duration="10730000" />
+      <workItem from="1661154224244" duration="5766000" />
+      <workItem from="1661164180484" duration="539000" />
+      <workItem from="1661165171307" duration="6080000" />
+      <workItem from="1661171914138" duration="659000" />
+      <workItem from="1661175595125" duration="7864000" />
+      <workItem from="1661211968140" duration="15634000" />
+      <workItem from="1661331712489" duration="1039000" />
+      <workItem from="1661333226629" duration="10701000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1661092854425</created>
@@ -107,11 +256,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaSenior$StringTest.ic" NAME="StringTest 覆盖结果" MODIFIED="1661333709792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
