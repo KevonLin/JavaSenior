@@ -1,5 +1,8 @@
 package com.kevonlin.exer;
 
+import org.jetbrains.annotations.Contract;
+import org.jetbrains.annotations.NotNull;
+
 /**
  * @author kevonlin
  * @version 1.1
@@ -14,7 +17,9 @@ public class StringReverseTest {
         System.out.println(res);
     }
 
-    private static String strReverse(String str, int index, int length) {
+    //方式一 转换为char[]
+    @Contract("_, _, _ -> new")
+    private static @NotNull String strReverse(@NotNull String str, int index, int length) {
         char[] chars = str.toCharArray();
         int start = index;
         int end = start + length - 1;
@@ -27,5 +32,11 @@ public class StringReverseTest {
             end--;
         }
         return new String(chars);
+    }
+
+    //方式二StringBuilder/StringBuffer
+    public static String reverseUseStringBuilder(String str, int index, int length){
+        StringBuilder builder = new StringBuilder(str.length());
+        return null;
     }
 }

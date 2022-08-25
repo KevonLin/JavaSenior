@@ -4,37 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringTest/StringTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/StringReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/TrimTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/java/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/exer/ElevatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/exer/ProducerCustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/exer/ScanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/TheadPoolTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/ThreadTestImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/WindowTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/community/java/NumPrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/exer/AccountExerciseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/exer/AccountExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/exer/AccountImplementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/LockSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/thread/security/java/WindowTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="修复错误">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/StringCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/StringMatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/java/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/java/IdeaDebug.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/StringReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringTest/src/com/kevonlin/exer/StringReverseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +26,7 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +48,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar:///usr/lib/jvm/jdk1.8.0_341/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="重新运行失败的测试" />
+      <run-configuration type="JUnit" name="StringMatchTest.test2" />
+    </enabled-run-configurations>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,7 +83,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,26 +92,16 @@
       <recent name="$PROJECT_DIR$/ThreadTest/src" />
       <recent name="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StringReverseTest.test1">
-    <configuration name="TheadPoolTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.thread.java.TheadPoolTest1" />
-      <module name="ThreadTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kevonlin.thread.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrimTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.TrimTest" />
+  <component name="RunManager" selected="JUnit.DateTimeTest.test1">
+    <configuration name="StringReverseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.StringReverseTest" />
       <module name="StringTest" />
       <extension name="coverage">
         <pattern>
@@ -136,7 +113,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverseTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DateTimeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DateAndTimeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.DateTimeTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdeaDebug.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.IdeaDebug" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringTest" />
       <extension name="coverage">
         <pattern>
@@ -145,28 +154,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kevonlin.exer" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.StringReverseTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.StringMatchTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringMatchTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringTest" />
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.StringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevonlin.exer" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.StringMatchTest" />
       <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="StringTest" />
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.StringTest" />
-      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringReverseTest.test1" />
-        <item itemvalue="应用程序.TrimTest" />
-        <item itemvalue="应用程序.TheadPoolTest1" />
-        <item itemvalue="JUnit.StringTest.test3" />
-        <item itemvalue="JUnit.StringTest.test2" />
+        <item itemvalue="JUnit.DateTimeTest.test1" />
+        <item itemvalue="JUnit.IdeaDebug.test1" />
+        <item itemvalue="应用程序.StringReverseTest" />
+        <item itemvalue="JUnit.StringMatchTest" />
+        <item itemvalue="JUnit.StringMatchTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +221,10 @@
       <workItem from="1661175595125" duration="7864000" />
       <workItem from="1661211968140" duration="15634000" />
       <workItem from="1661331712489" duration="1039000" />
-      <workItem from="1661333226629" duration="10701000" />
+      <workItem from="1661333226629" duration="27467000" />
+      <workItem from="1661421071501" duration="11601000" />
+      <workItem from="1661437406460" duration="57000" />
+      <workItem from="1661437509000" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1661092854425</created>
@@ -226,7 +233,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661092854426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1661386440720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661386440720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修复错误">
+      <created>1661429559873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661429559873</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修复错误">
+      <created>1661429571646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661429571646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +286,19 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="修复错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复错误" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StringTest/src/com/kevonlin/java/IdeaDebug.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
