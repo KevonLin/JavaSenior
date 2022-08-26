@@ -32,10 +32,8 @@ public class SimpleDateFormatExercise {
      **/
     @Test
     public void test2() throws ParseException {
-        String endDate = "1991-01-01";
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-        Date parseEndDate = sdf.parse(endDate);
-        boolean status = getStatus(parseEndDate);
+        String endDate = "2020-09-08";
+        boolean status = getStatus(endDate);
         if (status) {
             System.out.println("打渔");
         } else {
@@ -43,18 +41,24 @@ public class SimpleDateFormatExercise {
         }
     }
 
-    private boolean getStatus(Date endDate) throws ParseException {
+    private boolean getStatus(String endDate) throws ParseException {
         long startTime, endTime, timeStance, hour;
         int day;
         boolean[] arr = {false, true, true, true, false};
+
         String startDate = "1990-01-01";
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+
         Date parseStartDate = sdf.parse(startDate);
         startTime = parseStartDate.getTime();
-        endTime = endDate.getTime();
+
+        Date parseEndDate = sdf.parse(endDate);
+        endTime = parseEndDate.getTime();
+
         timeStance = endTime - startTime;
         hour = timeStance / 1000 / 60 / 60;
         day = (int) (hour % 5);
+
         return arr[day];
     }
 }

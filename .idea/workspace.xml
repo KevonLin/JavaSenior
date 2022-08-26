@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="第三次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/exer/SimpleDateFormatExercise.java" afterDir="false" />
+    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/CompareTest/CompareTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareTest/src/com/kevonlin/java/ComparableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareTest/src/com/kevonlin/java/CompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/InstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/JDK8DateTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/DateTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java/DateAndTimeTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/exer/SimpleDateFormatExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/exer/SimpleDateFormatExercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,15 +93,16 @@
       <recent name="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SimpleDateFormatExercise">
-    <configuration name="DateTimeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DateAndTimeTest" />
+  <component name="RunManager" selected="JUnit.ComparableTest.test1">
+    <configuration name="ComparableTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CompareTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kevonlin.java.*" />
@@ -103,15 +110,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.DateTimeTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.ComparableTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DateAndTimeTest" />
+    <configuration name="CompareTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CompareTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kevonlin.java.*" />
@@ -119,54 +126,53 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.DateTimeTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleDateFormatExercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DateAndTimeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kevonlin.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.exer" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.SimpleDateFormatExercise" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.CompareTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDateFormatExercise.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DateAndTimeTest" />
+    <configuration name="CompareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CompareTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kevonlin.exer.*" />
+          <option name="PATTERN" value="com.kevonlin.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.exer" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.SimpleDateFormatExercise" />
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.CompareTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CompareTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.CompareTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDateFormatExercise.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DateAndTimeTest" />
+    <configuration name="CompareTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CompareTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kevonlin.exer.*" />
+          <option name="PATTERN" value="com.kevonlin.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.exer" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.exer.SimpleDateFormatExercise" />
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.CompareTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -175,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SimpleDateFormatExercise" />
-        <item itemvalue="JUnit.SimpleDateFormatExercise.test2" />
-        <item itemvalue="JUnit.SimpleDateFormatExercise.test1" />
-        <item itemvalue="JUnit.DateTimeTest.test2" />
-        <item itemvalue="JUnit.DateTimeTest.test1" />
+        <item itemvalue="JUnit.ComparableTest.test1" />
+        <item itemvalue="JUnit.CompareTest.test2" />
+        <item itemvalue="JUnit.CompareTest (1)" />
+        <item itemvalue="JUnit.CompareTest" />
+        <item itemvalue="JUnit.CompareTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +228,7 @@
       <workItem from="1661421071501" duration="11601000" />
       <workItem from="1661437406460" duration="57000" />
       <workItem from="1661437509000" duration="985000" />
-      <workItem from="1661472437926" duration="3024000" />
+      <workItem from="1661472437926" duration="14267000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1661092854425</created>
@@ -266,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661438494991</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第一次提交">
+      <created>1661475535348</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661475535348</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +314,8 @@
     <MESSAGE value="修复错误" />
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
