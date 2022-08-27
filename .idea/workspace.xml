@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="枚举类和注解的使用">
-      <change afterPath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CollectionTest/src/com/kevonlin/java/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/TheadPoolTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java/TheadPoolTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +39,6 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar:///usr/lib/jvm/jdk1.8.0_341/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
-  </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
       <run-configuration type="JUnit" name="StringMatchTest.test2" />
@@ -74,7 +68,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/home/kevonlin/Repository/Development/IdeaWorkSpace/JavaSenior/DateAndTimeTest",
+    "last_opened_file_path": "F:/Repository/IdeaWorkSpace/JavaSenior",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
@@ -187,7 +181,6 @@
       <list>
         <item itemvalue="应用程序.CollectionTest" />
         <item itemvalue="应用程序.AnnotationTest" />
-        <item itemvalue="应用程序.com.kevonlin.java.EnumTest" />
         <item itemvalue="JUnit.ComparableTest.test1" />
         <item itemvalue="JUnit.CompareTest.test2" />
       </list>
