@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CompareTest/CompareTest.iml" filepath="$PROJECT_DIR$/CompareTest/CompareTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" filepath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EnumNoteTest/EnumNoteTest.iml" filepath="$PROJECT_DIR$/EnumNoteTest/EnumNoteTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumAnnotationTest/EnumAnnotationTest.iml" filepath="$PROJECT_DIR$/EnumAnnotationTest/EnumAnnotationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringTest/StringTest.iml" filepath="$PROJECT_DIR$/StringTest/StringTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
