@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompareTest/CompareTest.iml" filepath="$PROJECT_DIR$/CompareTest/CompareTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" filepath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest1.iml" filepath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumAnnotationTest/EnumAnnotationTest.iml" filepath="$PROJECT_DIR$/EnumAnnotationTest/EnumAnnotationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringTest/StringTest.iml" filepath="$PROJECT_DIR$/StringTest/StringTest.iml" />
