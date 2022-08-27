@@ -1,8 +1,6 @@
 package com.kevonlin.exer;
 
-import org.jetbrains.annotations.Contract;
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
+import com.sun.istack.internal.NotNull;
 import org.junit.Test;
 
 import java.util.Arrays;
@@ -54,8 +52,7 @@ public class StringMatchTest {
         System.out.println(index);//6
     }
 
-    @Contract(pure = true)
-    public static int @Nullable [] getNext(@NotNull String T) {
+    public static int[] getNext(String T) {
         int[] next = new int[T.length()];
         next[0] = 0;
         next[1] = 1;
