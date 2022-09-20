@@ -4,9 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="CollectionList">
+    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="ListTest">
+      <change afterPath="$PROJECT_DIR$/FileTest/FileTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTest/src/com/kevon/java/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/GeniericTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/exer/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/exer/DIYGenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/CollectionGenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/ReflectionTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/java/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/jdbc1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionTest/src/com/kevonlin/java/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionTest/src/com/kevonlin/java/ListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,34 +65,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Repository/IdeaWorkSpace/JavaSenior&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "F:/Repository/IdeaWorkSpace/JavaSenior/ReflictionTest/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.keovnlin.java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Repository\IdeaWorkSpace\JavaSenior\ReflictionTest\src" />
       <recent name="$PROJECT_DIR$/StringTest/src" />
       <recent name="$PROJECT_DIR$/ThreadTest/src" />
       <recent name="$PROJECT_DIR$/ThreadTest/src/com/kevonlin/thread/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Repository\IdeaWorkSpace\JavaSenior" />
       <recent name="$PROJECT_DIR$/DateAndTimeTest/src/com/kevonlin/java" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -85,9 +105,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListTest.test1">
-    <configuration name="CollectionTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionTest" />
+  <component name="RunManager" selected="JUnit.ClassLoaderTest.test1">
+    <configuration name="ClassLoaderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReflectionTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kevonlin.java.*" />
@@ -95,71 +115,86 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.CollectionTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kevonlin.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.CollectionTest" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kevonlin.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.IteratorTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.ClassLoaderTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionTest" />
+    <configuration name="CollectionGenericTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeniericTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="PATTERN" value="com.keovnlin.exer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.IteratorTest" />
+      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.CollectionGenericTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionTest" />
+    <configuration name="CollectionGenericTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeniericTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="PATTERN" value="com.keovnlin.exer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.ListTest" />
+      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.CollectionGenericTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevon.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevon.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevon.java.FileTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeniericTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keovnlin.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.Order" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeniericTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keovnlin.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.Order" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -168,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListTest.test1" />
-        <item itemvalue="JUnit.IteratorTest.test2" />
-        <item itemvalue="JUnit.IteratorTest.test1" />
-        <item itemvalue="JUnit.CollectionTest.test5" />
-        <item itemvalue="JUnit.CollectionTest.test4" />
+        <item itemvalue="JUnit.ClassLoaderTest.test1" />
+        <item itemvalue="JUnit.FileTest.test1" />
+        <item itemvalue="JUnit.Order" />
+        <item itemvalue="JUnit.Order.test1" />
+        <item itemvalue="JUnit.CollectionGenericTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661751678438</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ListTest">
+      <created>1662281044944</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662281044944</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +385,8 @@
     <MESSAGE value="枚举类和注解的使用" />
     <MESSAGE value="导入修复" />
     <MESSAGE value="CollectionList" />
-    <option name="LAST_COMMIT_MESSAGE" value="CollectionList" />
+    <MESSAGE value="ListTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

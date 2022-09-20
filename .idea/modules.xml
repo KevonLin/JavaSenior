@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" filepath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest1.iml" filepath="$PROJECT_DIR$/DateAndTimeTest/DateAndTimeTest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumAnnotationTest/EnumAnnotationTest.iml" filepath="$PROJECT_DIR$/EnumAnnotationTest/EnumAnnotationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeniericTest/GeniericTest.iml" filepath="$PROJECT_DIR$/GeniericTest/GeniericTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflictionTest/ReflectionTest.iml" filepath="$PROJECT_DIR$/ReflictionTest/ReflectionTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringTest/StringTest.iml" filepath="$PROJECT_DIR$/StringTest/StringTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
     </modules>
