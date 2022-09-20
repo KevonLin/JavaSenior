@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="ClassLoader读取配置文件">
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/java/ReflectionTest.java" afterDir="false" />
+    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="反射测试">
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/proxy/DynamicProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/proxy/StaticProxyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,35 +92,29 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReflectionTest.test1">
-    <configuration name="ClassLoaderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.ProxyTest">
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.proxy.ProxyTest" />
       <module name="ReflectionTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="PATTERN" value="com.kevonlin.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.ClassLoaderTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionGenericTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeniericTest" />
+    <configuration name="com.kevonlin.proxy.DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.proxy.DynamicProxyTest" />
+      <module name="ReflectionTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.keovnlin.exer.*" />
+          <option name="PATTERN" value="com.kevonlin.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.CollectionGenericTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,27 +150,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Order.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeniericTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keovnlin.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.Order" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReflectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ReflectionTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="PATTERN" value="com.kevonlin.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ProxyTest" />
+        <item itemvalue="应用程序.com.kevonlin.proxy.DynamicProxyTest" />
         <item itemvalue="JUnit.ReflectionTest.test1" />
-        <item itemvalue="JUnit.ClassLoaderTest.test1" />
-        <item itemvalue="JUnit.FileTest.test1" />
         <item itemvalue="JUnit.Order" />
-        <item itemvalue="JUnit.Order.test1" />
+        <item itemvalue="JUnit.FileTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663650766658</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="反射测试">
+      <created>1663651581420</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663651581420</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +366,8 @@
     <MESSAGE value="CollectionList" />
     <MESSAGE value="ListTest" />
     <MESSAGE value="ClassLoader读取配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="ClassLoader读取配置文件" />
+    <MESSAGE value="反射测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="反射测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
