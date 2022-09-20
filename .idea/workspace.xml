@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="ListTest">
-      <change afterPath="$PROJECT_DIR$/FileTest/FileTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileTest/src/com/kevon/java/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/GeniericTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/exer/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/exer/DIYGenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/CollectionGenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeniericTest/src/com/keovnlin/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/ReflectionTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/jdbc.properties" afterDir="false" />
+    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="ClassLoader读取配置文件">
+      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/java/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/java/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/jdbc1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +91,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ClassLoaderTest.test1">
+  <component name="RunManager" selected="JUnit.ReflectionTest.test1">
     <configuration name="ClassLoaderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ReflectionTest" />
       <extension name="coverage">
@@ -117,22 +103,6 @@
       <option name="PACKAGE_NAME" value="com.kevonlin.java" />
       <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.ClassLoaderTest" />
       <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionGenericTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeniericTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keovnlin.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.keovnlin.java" />
-      <option name="MAIN_CLASS_NAME" value="com.keovnlin.java.CollectionGenericTest" />
-      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -201,13 +171,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReflectionTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevonlin.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kevonlin.java" />
+      <option name="MAIN_CLASS_NAME" value="com.kevonlin.java.ReflectionTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReflectionTest.test1" />
         <item itemvalue="JUnit.ClassLoaderTest.test1" />
         <item itemvalue="JUnit.FileTest.test1" />
         <item itemvalue="JUnit.Order" />
         <item itemvalue="JUnit.Order.test1" />
-        <item itemvalue="JUnit.CollectionGenericTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662281044944</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ClassLoader读取配置文件">
+      <created>1663650766657</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663650766658</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +379,8 @@
     <MESSAGE value="导入修复" />
     <MESSAGE value="CollectionList" />
     <MESSAGE value="ListTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListTest" />
+    <MESSAGE value="ClassLoader读取配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="ClassLoader读取配置文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
