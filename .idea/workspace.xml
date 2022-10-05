@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="反射测试">
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/proxy/DynamicProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflictionTest/src/com/kevonlin/proxy/StaticProxyTest.java" afterDir="false" />
+    <list default="true" id="104174fd-ac74-48fa-9975-bf02ed8b2b9e" name="变更" comment="代理模式">
+      <change afterPath="$PROJECT_DIR$/StreamAPITest/StreamAPITest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamAPITest/src/com/kevonlin/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamAPITest/src/com/kevonlin/java/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamAPITest/src/com/kevonlin/java/StreamAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,29 +54,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "F:/Repository/IdeaWorkSpace/JavaSenior/ReflictionTest/src",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Repository/IdeaWorkSpace/JavaSenior/ReflictionTest/src&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kevonlin.java" />
       <recent name="com.keovnlin.java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -324,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663651581420</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="代理模式">
+      <created>1663663781179</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663663781179</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +377,8 @@
     <MESSAGE value="ListTest" />
     <MESSAGE value="ClassLoader读取配置文件" />
     <MESSAGE value="反射测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="反射测试" />
+    <MESSAGE value="代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

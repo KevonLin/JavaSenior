@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/GeniericTest/GeniericTest.iml" filepath="$PROJECT_DIR$/GeniericTest/GeniericTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReflictionTest/ReflectionTest.iml" filepath="$PROJECT_DIR$/ReflictionTest/ReflectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPITest/StreamAPITest.iml" filepath="$PROJECT_DIR$/StreamAPITest/StreamAPITest.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringTest/StringTest.iml" filepath="$PROJECT_DIR$/StringTest/StringTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
     </modules>
